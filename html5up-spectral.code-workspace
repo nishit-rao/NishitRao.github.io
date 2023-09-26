@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "../html5up-twenty"
+		},
+		{
+			"path": "../html5up-stellar"
+		},
+		{
+			"path": "../html5up-ethereal"
 		}
 	],
 	"settings": {
