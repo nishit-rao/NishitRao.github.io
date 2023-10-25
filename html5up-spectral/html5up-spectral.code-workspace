@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../html5up-twenty"
+		},
+		{
+			"path": "../html5up-stellar"
+		},
+		{
+			"path": "../html5up-ethereal"
+		},
+		{
+			"path": "../html5up-story"
+		},
+		{
+			"path": "../html5up-forty"
+		},
+		{
+			"path": "../html5up-solid-state"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html5up-spectral"
+	}
+}
